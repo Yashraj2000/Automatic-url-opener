@@ -1,0 +1,16 @@
+https://www.tutorialspoint.com/event-scheduler-in-python   Played at 2020-10-23 19:07:00
+https://www.tutorialspoint.com/event-scheduler-in-python   Played at 2020-10-23 19:20:00
+https://www.programiz.com/python-programming/datetime   Played at 2020-10-23 19:18:00
+https://www.w3resource.com/sql/aggregate-functions/max-date.php   Played at 2020-10-23 19:25:00
+https://www.w3resource.com/sql/aggregate-functions/max-date.php   Played at 2020-10-23 19:28:26
+https://www.techonthenet.com/mysql/and_or.php   Played at 2020-10-23 19:54:00
+https://www.programiz.com/python-programming/datetime   Played at 2020-10-23 19:55:00
+https://stackoverflow.com/questions/7999935/python-datetime-to-string-without-microsecond-component   Played at 2020-10-23 19:58:00
+https://stackoverflow.com/questions/7999935/python-datetime-to-string-without-microsecond-component   Played at 2020-10-23 19:59:00
+https://www.dataquest.io/blog/python-datetime-tutorial/   Played at 2020-10-23 20:04:00
+https://www.8bitavenue.com/get-current-datetime-without-milliseconds-in-python/   Played at 2020-10-23 20:13:00
+https://stackoverflow.com/questions/11211650/cannot-seem-to-use-import-time-and-import-datetime-in-same-script-in-python   Played at 2020-10-23 20:16:00
+https://stackoverflow.com/questions/11211650/cannot-seem-to-use-import-time-and-import-datetime-in-same-script-in-python   Played at 2020-10-23 20:18:00
+https://stackoverflow.com/questions/11211650/cannot-seem-to-use-import-time-and-import-datetime-in-same-script-in-python   Played at 2020-10-23 20:19:00
+https://stackoverflow.com/questions/11211650/cannot-seem-to-use-import-time-and-import-datetime-in-same-script-in-python   Played at 2020-10-23 20:20:00
+https://stackoverflow.com/questions/11211650/cannot-seem-to-use-import-time-and-import-datetime-in-same-script-in-python'   Played at 2020-10-23 20:23:00
